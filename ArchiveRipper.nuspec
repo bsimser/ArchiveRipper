@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>ArchiveRipper</id>
+        <version>0.0.0.0</version>
+        <authors>Bil Simser</authors>
+        <licenseUrl>https://raw.githubusercontent.com/bsimser/ArchiveRipper/master/LICENSE</licenseUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>Archive Ripper</description>
+        <summary>Downloading tool for archive.org publications</summary>
+    </metadata>
+    <files>
+        <file src="Newtonsoft.Json.dll" target="lib\net451\Newtonsoft.Json.dll" />
+        <file src="NuGet.Squirrel.dll" target="lib\net451\NuGet.Squirrel.dll" />
+        <file src="ArchiveRipper.exe" target="lib\net451\OpenLiveWriter.exe" />
+        <file src="ArchiveRipper.exe.config" target="lib\net451\ArchiveRipper.exe.config" />
+        <file src="ArchiveRipper.exe.manifest" target="lib\net451\ArchiveRipper.exe.manifest" />
+        <file src="Squirrel.dll" target="lib\net451\Squirrel.dll" />
+    </files>
+</package>
