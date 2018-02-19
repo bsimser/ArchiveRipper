@@ -1,5 +1,7 @@
 # ArchiveRipper
 
+[![Build Status](https://travis-ci.org/bsimser/ArchiveRipper.svg?branch=master)](https://travis-ci.org/bsimser/ArchiveRipper)
+
 Downloading tool for archive.org publications
 
 **Website**
